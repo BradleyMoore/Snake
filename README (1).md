@@ -1,4 +1,0 @@
-snake
-=====
-
-simple snake game
